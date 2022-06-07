@@ -5,7 +5,7 @@ Release Notes
 BankSystem [Pvt] Limited.
 -----------------------------------
 
-(c) 2003 Muhammad Wasif Javed
+
 	  
 --------
 Overview
