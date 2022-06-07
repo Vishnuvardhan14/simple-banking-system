@@ -46,9 +46,3 @@ if u r using java 1.2. Print option of the BankSystem work nice
 & quick if Printer attach with the same computer on which Program
 is running otherwise it may take a while.
 
---------------
-Contact Author
---------------
-
-For Any Kind of Help E-mail me @ svkprojects@gmail.com
-
